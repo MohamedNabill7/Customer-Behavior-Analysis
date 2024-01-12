@@ -54,6 +54,7 @@ with filters include the status of the student and specify which date to see the
 
 3. **Donut Chart:** A center represents the average rating of a platform
 
+![Alt text](<1. Overview Dashboard/Overview Dashboard.png>) 
 
 ### Secnod Dashboard **Engagement and Onboarding**
 
@@ -77,11 +78,21 @@ with filters include the status of the student and specify which date to see the
 
 Create three navigate buttons that show different Views:
 
-First View: `User-Selected Period`:
-    Users can choose the start and end dates for the period they are interested in.
+First View: 
 
-Second View: `Monthly Split - User Chooses a Month`:
-    Users select a specific month, and the line chart adjusts to show data for that month.
+**User-Selected Period:** Users can choose the start and end dates for the period they are interested in.
 
-Third View: `Monthly Bar Chart`:
-    Data is aggregated on a monthly basis.
+![Alt text](<2. Engagment and Onboarding/Engagement and Onboarding Dashboard.png>)
+
+Second View: 
+
+**Monthly Split - User Chooses a Month:** Users select a specific month, and the line chart adjusts to show data for that month.
+
+![Alt text](<2. Engagment and Onboarding/Engagement and Onboarding with Month Dashboard.png>)
+
+Third View:
+
+**Monthly Bar Chart:** Data is aggregated on a monthly basis.
+
+![Alt text](<2. Engagment and Onboarding/Engagement and Onboarding with Year Dashboard.png>)
+

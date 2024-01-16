@@ -52,7 +52,7 @@ In `Cohort Engagement Dashboard`
 
 ![Alt text](No.4.png)
 
-    Pay Plan Student:
+    Paid Plan Student:
 
         The chart looks much different from the free plan student chart. About 70% of students still engage on the platform in the second month
 
@@ -64,7 +64,29 @@ In `Cohort Engagement Dashboard`
 
     2. On the other, the students who remain engaged. Suppose they have subscribed to a quarterly or annual subscription
 
-    
+    To extend this period, marketing team need to target the right audiance 
 
     
+### Average minutes watched by students? And the difference between free and paid students?
+
+    The average minutes watched by free plan students is between 20 and 30 minutes.
+
+    It indicates the free plan students are interested in the content and completing the unlocked content of the course.
+
+    Some of the free plan students didn't watch any content and others viewed free content in more than one course.  
+
+![Alt text](No.6.png)
+
+![Alt text](No.8.png)
+
+
+    Average minutes watched by pay plan students aren't easy to predict because each student has different learning habits.
+
+    Paid plan student roughly complete an average of three courses through their membership.
+
+![Alt text](No.7.png)
+
+![Alt text](No.9.png)
+
+
 

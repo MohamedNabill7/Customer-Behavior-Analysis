@@ -25,7 +25,7 @@ In `Engagement and Onboarding Dashboard` `First graph`
     
     Engagement has grown from 100 in Jan to 400 by Oct.
 
-[Alt text](No.2.png) 
+![Alt text](No.2.png) 
 
 
 **3**
@@ -37,7 +37,7 @@ In `Engagement and Onboarding Dashboard` `Second graph`
     
     The rating was raised in the middle of September because there is a new gamified virtual of the platform officially launched in the middle of September.
 
-[Alt text](No.3.png) 
+![Alt text](No.3.png) 
 
 
 ### How long do students stay engaged on the platform, and how can this period be extended?
@@ -50,13 +50,13 @@ In `Cohort Engagement Dashboard`
 
         As expected, most of the free plan students remain engaged only the month they were onboarded "Registered it" 
 
-        ![Alt text](No.4.png)
+![Alt text](No.4.png)
 
     Pay Plan Student:
 
         The chart looks much different from the free plan student chart. About 70% of students still engage on the platform in the second month
 
-        ![Alt text](No.5.png)
+![Alt text](No.5.png)
 
     Hypothesis:
 
